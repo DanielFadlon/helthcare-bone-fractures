@@ -9,6 +9,8 @@ Semi-supervised learning, given its capacity to learn from a combination of labe
 We present a comparative analysis with a supervised learning model, serving as a baseline. Through this comparison, we illuminate the strengths and weaknesses of each approach, thereby providing a comprehensive understanding of their roles in fracture detection in radiology.
 
 
+### Related Works
+
 * A Simple Framework for Contrastive Learning of Visual Representations
 https://arxiv.org/abs/2002.05709
 
@@ -16,6 +18,7 @@ https://arxiv.org/abs/2002.05709
 * Big Self-Supervised Models are Strong Semi-Supervised Learners
 https://arxiv.org/pdf/2006.10029.pdf
 
+### Dataset
 
 * MURA: Large Dataset for Abnormality Detection in Musculoskeletal Radiographs
 https://arxiv.org/abs/1712.06957
